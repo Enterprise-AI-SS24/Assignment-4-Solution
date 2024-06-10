@@ -1,0 +1,3 @@
+# Assignment_3_HyperparameterTuning
+
+In the previous assignment, we have constructed our first pipeline using zenML. Now our DataEngineering team provides us with a clean and preprocessed dataset. Therefore, we will use this dataset to train a model and perform hyperparameter tuning. Also we will create a different project structure for this assignment. Last time we constructed our pipeline only in one notebook file. For practicing 
